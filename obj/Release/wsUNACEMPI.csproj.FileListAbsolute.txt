@@ -1,0 +1,32 @@
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\wsUNACEMPI.dll.config
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\wsUNACEMPI.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\wsUNACEMPI.pdb
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\common.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\UNACEM.PI.DAL.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\Microsoft.Practices.Unity.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\common.pdb
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\common.xml
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\bin\UNACEM.PI.DAL.pdb
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\obj\Release\wsUNACEMPI.csprojResolveAssemblyReference.cache
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\obj\Release\wsUNACEMPI.dll
+C:\proyectos\PI\slnReportesPI\wsUNACEMPI\obj\Release\wsUNACEMPI.pdb
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\wsUNACEMPI.dll.config
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\wsUNACEMPI.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\wsUNACEMPI.pdb
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\common.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\UNACEM.PI.DAL.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\Microsoft.Practices.Unity.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\Microsoft.Practices.Unity.Interception.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\common.pdb
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\common.xml
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\bin\UNACEM.PI.DAL.pdb
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\obj\Release\wsUNACEMPI.csprojResolveAssemblyReference.cache
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\obj\Release\wsUNACEMPI.dll
+C:\proyectos\PI\slnReportesPI - sin RDP Ultimo\wsUNACEMPI\obj\Release\wsUNACEMPI.pdb
