@@ -31,6 +31,7 @@ namespace wsUNACEMPI
             try
             {
                 int a = 1;
+                int b = 1;
                 string cDatabase = WebConfigurationManager.AppSettings["database"];
                 string cServidorPIAF = WebConfigurationManager.AppSettings["ServidorPIAF"];
           
